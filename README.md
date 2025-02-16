@@ -1,12 +1,16 @@
-# Welcome to the Fasoo 2022 Global Internship Project - Wrapsody eCo Workspace
+# Fasoo 2022 Global Internship Project - Wrapsody eCo Workspace
 
 This repository is for reference purposes only and does not contain any code because it is related to a proprietary company product.
 
 ## Project Overview
 
-As a member of the four-person development team, we contributed to the successful launch of Wrapsody eCo Workspace. We designed and implemented a user-friendly collaborative workspace within Wrapsody eCo, utilizing a real-time open-source collaborative text editor to encourage open communication and idea sharing. Our efforts were instrumental in improving team communication and collaboration within Wrapsody eCo by enabling users to easily share their opinions within the company platform, eliminating the need for multiple platforms.
+During the Fasoo 2022 Global Internship, our team developed Wrapsody eCo Workspace, a real-time collaborative workspace designed to enhance communication and idea-sharing within Wrapsody eCo. Our goal was to integrate real-time document collaboration directly into the platform, eliminating the need for third-party tools.
 
-On the final day of the internship, we demonstrated the capabilities and potential of Wrapsody eCo Workspace to the CEO, team leaders, and senior developers through an impactful presentation.
+To achieve this, we researched over 10 open-source text editors and selected Etherpad for its real-time editing capabilities, active development, flexible licensing, and extensive plugin ecosystem. We then successfully integrated Etherpad into Wrapsody eCo, enabling users to collaborate more efficiently within a single platform.
+
+In addition to the integration, we worked on refining the user interface, ensuring that the UI components matched Wrapsody eCo’s design style. We also implemented user authority control, restricting access to certain features based on roles such as document manager, read-only, and read & write users.
+
+On the final day of the internship, we presented our project to Fasoo’s CEO, board members, and senior developers, highlighting its impact on team collaboration and its potential for commercial expansion within Wrapsody eCo.
 
 ## Team 
 > Jeewon Koo (jeewonkoo@fasoo.com | jeewonkoo@gmail.com)
